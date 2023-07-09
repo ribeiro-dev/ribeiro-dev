@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- Sou um desenvolvedor apaixonado por tecnologia e inovação. Apesar de ser Fullstack, confesso que tenho uma certa paixão a mais pelo back-end.<br><br> - Estou sempre em busca de desafios e oportunidades de aprendizado.<br><br>- Gosto de desenvolver projetos pessoais, onde posso explorar minha criatividade e aprimorar minhas habilidades.<br><br>- Fique à vontade para explorar meus repositórios para obter mais detalhes sobre esses projetos.</p>
+<p align="left">- Sou um desenvolvedor apaixonado por tecnologia e inovação. Apesar de ser Fullstack, confesso que tenho uma paixão a mais pelo back-end.<br><br> - Estou sempre em busca de desafios e oportunidades de aprendizado.<br><br>- Gosto de desenvolver projetos pessoais, onde posso explorar minha criatividade e aprimorar minhas habilidades.<br><br>- Fique à vontade para explorar meus repositórios para obter mais detalhes sobre esses projetos.</p>
 
 ###
 
