@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- Sou um desenvolvedor apaixonado por tecnologia e inovação. Apesar de ser Fullstack, confesso que tenho uma paixão a mais pelo back-end.<br><br> - Estou sempre em busca de desafios e oportunidades de aprendizado.<br><br>- Gosto de desenvolver projetos pessoais, onde posso explorar minha criatividade e aprimorar minhas habilidades.<br><br>- Fique à vontade para explorar meus repositórios para obter mais detalhes sobre esses projetos.</p>
+<p align="left">- Sou um desenvolvedor apaixonado por tecnologia e inovação. Apesar de ser Fullstack, confesso que tenho uma paixão a mais pelo back-end.<br><br> - Estou sempre em busca de desafios e oportunidades de aprendizado.<br><br>- No momento estou estudando React e NodeJS<br><br>- Gosto de desenvolver projetos pessoais, onde posso explorar minha criatividade e aprimorar minhas habilidades.<br><br>- Fique à vontade para dar uma olhada nos meus repositórios e ver mais detalhes sobre os projetos.</p>
 
 ###
 
@@ -46,11 +46,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
